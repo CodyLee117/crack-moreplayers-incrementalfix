@@ -1,0 +1,10 @@
+{
+  "name": "More_Players_IncrementalFix",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "Companion plugin for khovanet's More_Players: lets the upper-quarters annex build in Incremental mode (game 2.0). Everyone in the lobby needs it.",
+  "dependencies": [
+    "khovanet-More_Players-0.5.2",
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
